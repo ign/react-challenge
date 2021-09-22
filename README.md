@@ -12,7 +12,7 @@ Comment Count Endpoint - `/comments?ids={comma seperated contentIds}`
 
 This app should display the fetched content and match the general design below as close as possible. (Don’t worry about the icons.)
 
-![design](./design.png)
+![design](./design.gif)
 
 Each list item should open a webview for the corresponding content on ign.com when tapped (except comments).
 
